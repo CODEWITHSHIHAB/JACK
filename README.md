@@ -30,8 +30,9 @@ As of older public stats (in 2021), he had over 2.48 million YouTube subscribers
 Sportskeeda
 
 One article reports his Free Fire ID (as of 2021) as 62875162.
-[profile](https://github.com/milonhossain2025/Desert-Eagle)
+[profile](https://github.com/CODEWITHSHIHAB/JACK.git)
 
 # movement jod
 ## Brazilian king
 ### Free stylegit
+![HI](C:\Users\User\Desktop\GITHUB\hi.pn)
