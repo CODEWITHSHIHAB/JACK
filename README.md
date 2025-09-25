@@ -35,4 +35,5 @@ One article reports his Free Fire ID (as of 2021) as 62875162.
 # movement jod
 ## Brazilian king
 ### Free stylegit
-![HI](C:\Users\User\Desktop\GITHUB\hi.pn)
+
+![HI](hi.png)
